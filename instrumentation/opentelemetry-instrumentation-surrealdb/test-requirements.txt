@@ -1,0 +1,3 @@
+pytest
+pytest-asyncio
+surrealdb >= 1.0
